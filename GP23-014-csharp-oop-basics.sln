@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2_1PlayerGold", "P2_1Playe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2_2ItemValues", "P2_2ItemValues\P2_2ItemValues.csproj", "{FF5E4489-EF98-4945-B73A-705FDF0AFAA0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class_Exercise", "Class_Exercise\Class_Exercise.csproj", "{C9E174C5-C07E-4D5E-99AB-B1151D0D98CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{FF5E4489-EF98-4945-B73A-705FDF0AFAA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF5E4489-EF98-4945-B73A-705FDF0AFAA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF5E4489-EF98-4945-B73A-705FDF0AFAA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9E174C5-C07E-4D5E-99AB-B1151D0D98CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9E174C5-C07E-4D5E-99AB-B1151D0D98CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9E174C5-C07E-4D5E-99AB-B1151D0D98CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9E174C5-C07E-4D5E-99AB-B1151D0D98CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
