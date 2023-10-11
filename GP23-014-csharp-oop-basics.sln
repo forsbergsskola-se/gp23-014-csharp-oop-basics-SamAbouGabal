@@ -22,6 +22,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P4_1Replacing", "P4_1Replac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P4Attack", "P4Attack\P4Attack.csproj", "{51C593D8-E6F7-49F3-9604-FAED6EF213C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class_Exercise_summary of 1-4", "Class_Exercise_summary of 1-4\Class_Exercise_summary of 1-4.csproj", "{BDC8753B-C34A-4F5F-BA1F-BE17CEA0468C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{51C593D8-E6F7-49F3-9604-FAED6EF213C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51C593D8-E6F7-49F3-9604-FAED6EF213C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51C593D8-E6F7-49F3-9604-FAED6EF213C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDC8753B-C34A-4F5F-BA1F-BE17CEA0468C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC8753B-C34A-4F5F-BA1F-BE17CEA0468C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC8753B-C34A-4F5F-BA1F-BE17CEA0468C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC8753B-C34A-4F5F-BA1F-BE17CEA0468C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
