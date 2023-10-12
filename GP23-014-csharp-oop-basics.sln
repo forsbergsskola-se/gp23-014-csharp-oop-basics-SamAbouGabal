@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class_Exercise_summary of 1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P5_1Father", "P5_1Father\P5_1Father.csproj", "{9BDE6886-349C-467E-AC59-2E0A0CDA0294}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P6GoodKnight", "P6GoodKnight\P6GoodKnight.csproj", "{83A52D8D-16D4-403A-B11C-B4185A790DDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{9BDE6886-349C-467E-AC59-2E0A0CDA0294}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BDE6886-349C-467E-AC59-2E0A0CDA0294}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BDE6886-349C-467E-AC59-2E0A0CDA0294}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83A52D8D-16D4-403A-B11C-B4185A790DDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83A52D8D-16D4-403A-B11C-B4185A790DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83A52D8D-16D4-403A-B11C-B4185A790DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83A52D8D-16D4-403A-B11C-B4185A790DDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
